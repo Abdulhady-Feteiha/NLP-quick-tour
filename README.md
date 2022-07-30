@@ -4,6 +4,6 @@ I'm creating this simple recap of key NLP concepts for any one who is intrested 
 Buckle up and let's go!<br>
 
 # Eample:
-![alt text](Spacey_example.png)
+![alt text](Spacy_example.png)
 
 
